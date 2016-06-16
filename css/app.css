@@ -1,0 +1,18 @@
+.strike {
+	color: grey;
+	text-decoration: line-through
+}
+
+#my-canvas {
+	width: 400px;
+	height: 400px;
+	border: 1px solid #333
+}
+
+hr {
+	background: #333; 
+	border: 0; 
+	height: 2px;
+	
+}
+
